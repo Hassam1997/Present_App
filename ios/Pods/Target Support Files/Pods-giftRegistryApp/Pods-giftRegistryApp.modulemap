@@ -1,0 +1,6 @@
+module Pods_giftRegistryApp {
+  umbrella header "Pods-giftRegistryApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
